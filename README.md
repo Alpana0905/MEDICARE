@@ -20,3 +20,11 @@ GOOD TO HAVE FEATURE:
 3)	Detecting the real-time location of the user and identifying the nearest possible health care centre.
 4)	Providing detailed diagnosis of the symptoms with health risk chart and risk level indicator and proper steps of first-aid that can keep the situation under control till the ambulance arrived
 
+![image](https://user-images.githubusercontent.com/78347586/114295847-752c3b80-9ac5-11eb-8dfa-1467180b0f32.png)
+![image](https://user-images.githubusercontent.com/78347586/114295853-7eb5a380-9ac5-11eb-9c82-1a42f56e8487.png)
+![image](https://user-images.githubusercontent.com/78347586/114295927-0dc2bb80-9ac6-11eb-8063-9fd555075969.png)
+![image](https://user-images.githubusercontent.com/78347586/114295868-a73d9d80-9ac5-11eb-94ba-21a717a561bf.png)
+![image](https://user-images.githubusercontent.com/78347586/114295895-db18c300-9ac5-11eb-8166-9325f9de8156.png)
+![image](https://user-images.githubusercontent.com/78347586/114295913-f552a100-9ac5-11eb-9328-fa45ffe2cab3.png)
+![image](https://user-images.githubusercontent.com/78347586/114295917-fb488200-9ac5-11eb-9493-fbca10b2d989.png)
+![image](https://user-images.githubusercontent.com/78347586/114295920-026f9000-9ac6-11eb-8dc5-a16db16cdcf1.png)
